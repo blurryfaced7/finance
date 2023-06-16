@@ -131,6 +131,7 @@ body{
 .bottom .container .expenses .expenses__title{
     display: block;
     padding-bottom: 0.5rem;
+    margin: 1rem 0;
     /* border-bottom: #2a2929 1px solid; */
 }
 .bottom .container .income .income__title{
@@ -145,6 +146,7 @@ body{
     padding: 0.5rem 0.25rem;
     display: flex;
     justify-content: space-between;
+    margin: 1rem 0;
     align-items: center;
     width: 40vw;
 }
